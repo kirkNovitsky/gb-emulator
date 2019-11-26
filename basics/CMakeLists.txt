@@ -1,0 +1,5 @@
+add_executable(union union.c)
+add_executable(assert assert.c)
+add_executable(framebuffer framebuffer.c)
+add_executable(bitfields bitfields.c)
+add_executable(inttypes inttypes.c)

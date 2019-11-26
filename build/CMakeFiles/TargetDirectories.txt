@@ -1,0 +1,10 @@
+/home/kirk/gb-emu/build/CMakeFiles/rebuild_cache.dir
+/home/kirk/gb-emu/build/CMakeFiles/gb-emu.dir
+/home/kirk/gb-emu/build/CMakeFiles/edit_cache.dir
+/home/kirk/gb-emu/build/basics/CMakeFiles/rebuild_cache.dir
+/home/kirk/gb-emu/build/basics/CMakeFiles/union.dir
+/home/kirk/gb-emu/build/basics/CMakeFiles/assert.dir
+/home/kirk/gb-emu/build/basics/CMakeFiles/bitfields.dir
+/home/kirk/gb-emu/build/basics/CMakeFiles/edit_cache.dir
+/home/kirk/gb-emu/build/basics/CMakeFiles/framebuffer.dir
+/home/kirk/gb-emu/build/basics/CMakeFiles/inttypes.dir

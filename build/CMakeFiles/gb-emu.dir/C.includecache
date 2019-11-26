@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kirk/gb-emu/gameboy.c
+stdio.h
+-
+stdint.h
+-
+stdbool.h
+-
+string.h
+-
+assert.h
+-
+stdlib.h
+-
+gameboy.h
+/home/kirk/gb-emu/gameboy.h
+
+/home/kirk/gb-emu/gameboy.h
+stdint.h
+-
+stdbool.h
+-
+
+/home/kirk/gb-emu/main.c
+SDL2/SDL.h
+-
+stdio.h
+-
+stdint.h
+-
+stdbool.h
+-
+assert.h
+-
+gameboy.h
+/home/kirk/gb-emu/gameboy.h
+

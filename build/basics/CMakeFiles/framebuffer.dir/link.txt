@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/framebuffer.dir/framebuffer.c.o  -o framebuffer 

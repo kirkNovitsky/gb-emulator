@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/bitfields.dir/bitfields.c.o  -o bitfields 

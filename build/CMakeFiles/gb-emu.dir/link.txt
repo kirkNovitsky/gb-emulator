@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/gb-emu.dir/main.c.o CMakeFiles/gb-emu.dir/gameboy.c.o  -o gb-emu -lSDL2 
